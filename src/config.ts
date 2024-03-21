@@ -1,0 +1,2 @@
+// src/config.ts
+export const JWT_SECRET = 'eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImlhdCI6MTcxMDg4ODE0OH0.ZsN7uB_vbugpg0YS3m3li0ohASbm35P5Vn7z3WlpOkY';
